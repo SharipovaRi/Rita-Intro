@@ -1,7 +1,7 @@
 <h1 align="center">Hi ✌️, I'm Rita</h1>
 <h3 align="center">A student who enjoys coding and wants to become a Full Stack Developer!</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: TBD</h3>
 <p align="left">
 </p>
 
