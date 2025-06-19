@@ -1,9 +1,9 @@
 <h1 align="center">Hi ✌️, I'm Rita</h1>
 <h3 align="center">A student who enjoys coding!</h3>
 
-<h3 align="center"> My projects: </h3>
-<h3 align="center"> 1. Recipe-Assistant - Java </h3>
-<h3 align="center"> 2. MunchMatch - Java (Creating the backend of the project, adding API, and connecting with the frontend). </h3>
+<h3 align="left"> My projects: </h3>
+<h3 align="left"> 1. Recipe-Assistant - Java </h3>
+<h3 align="left"> 2. MunchMatch - Java (Creating the backend of the project, adding API, and connecting with the frontend). </h3>
 
 <h3 align="left">Connect with me: TBD</h3>
 <p align="left">
