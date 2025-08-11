@@ -3,8 +3,8 @@
 
 <h3 align="left"> My projects: </h3>
 <h3 align="left"> 1. Recipe-Assistant - Java </h3>
-<h3 align="left"> 2. MunchMatch - Java (Creating the backend of the project, adding API, and connecting with the frontend). </h3>
-
+<h3 align="left"> 2. MunchMatch - Java (Creating the backend of the project, adding Public API, and connecting with the frontend). </h3>
+<h3 align="left"> 3. Dodge the Falling Blocks Game - HTML, CSS, JavaScript </h3>
 <br>
 <br>
 <h3 align="left">Connect with me: TBD</h3>
