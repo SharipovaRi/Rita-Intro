@@ -3,7 +3,7 @@
 
 <h3 align="left"> My projects: </h3>
 <h3 align="left"> 1. Recipe-Assistant - Java </h3>
-<h3 align="left"> 2. MunchMatch - Java (Creating the backend of the project, adding Public API, and connecting with the frontend). </h3>
+<h3 align="left"> 2. MunchMatch - Java (Spring Boot) and H2 (Created the backend of the project, added REST API, and connected with the frontend). </h3>
 <h3 align="left"> 3. Dodge the Falling Blocks Game - HTML, CSS, JavaScript </h3>
 <h3 align="left"> 4. Personal Portfolio Website - HTML, Tailwind CSS, JavaScript (React, Vite), Node.js(ExpressJS)</h3>
 <br>
