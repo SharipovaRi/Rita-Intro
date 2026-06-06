@@ -4,6 +4,7 @@
 <h3 align="left"> My projects: </h3>
 
 <h3 align="left"> 1. E-commerce Website Review Prediction System - Python, Fast API, Docker, Streamlit, GitHub Actions, Pytest </h3>
+<h3 align="left">2. Operations Analytics & Risk Monitoring Platform - Python, PostgreSQL, SQL, Power BI, Scikit-Learn, Prophet, Pandas</h3>
 <h3 align="left"> 2. Recipe-Assistant - Java </h3>
 <h3 align="left"> 3. MunchMatch - Java (Spring Boot) and H2 (Created the backend of the project, added REST API, and connected with the frontend). </h3>
 <h3 align="left"> 4. Dodge the Falling Blocks Game - HTML, CSS, JavaScript </h3>
@@ -54,8 +55,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> 
   </a> 
 
-  <!-- ================= NEW ADDITIONS ================= -->
-
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> 
   </a> 
@@ -75,5 +74,9 @@
   <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> 
     <img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" alt="github actions" width="40" height="40"/> 
   </a> 
+
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.worldvectorlogo.com/logos/power-bi-1.svg" alt="Power BI" width="40" height="40"/>
+</a>
 
 </p>
