@@ -3,12 +3,19 @@
 
 <h3 align="left"> My projects: </h3>
 
-<h3 align="left"> 1. E-commerce Website Review Prediction System - Python, Fast API, Docker, Streamlit, GitHub Actions, Pytest </h3>
-<h3 align="left">2. Operations Analytics & Risk Monitoring Platform - Python, PostgreSQL, SQL, Power BI, Scikit-Learn, Prophet, Pandas</h3>
-<h3 align="left"> 2. Recipe-Assistant - Java </h3>
-<h3 align="left"> 3. MunchMatch - Java (Spring Boot) and H2 (Created the backend of the project, added REST API, and connected with the frontend). </h3>
-<h3 align="left"> 4. Dodge the Falling Blocks Game - HTML, CSS, JavaScript </h3>
-<h3 align="left"> 5. Personal Portfolio Website - HTML, Tailwind CSS, JavaScript (React, Vite), Node.js(ExpressJS)</h3>
+<h3 align="left"> 1. AI Beauty Product Success Predictor (Beauty Launch) - Python, Scikit-Learn, SHAP, FastAPI, Next.js, TypeScript, Gemini API </h3>
+
+<h3 align="left"> 2. E-commerce Website Review Prediction System - Python, FastAPI, Docker, Streamlit, GitHub Actions, Pytest </h3>
+
+<h3 align="left"> 3. Operations Analytics & Risk Monitoring Platform - Python, PostgreSQL, SQL, Power BI, Scikit-Learn, Prophet, Pandas </h3>
+
+<h3 align="left"> 4. Recipe-Assistant - Java </h3>
+
+<h3 align="left"> 5. MunchMatch - Java (Spring Boot) and H2 (Created the backend of the project, added REST API, and connected with the frontend). </h3>
+
+<h3 align="left"> 6. Dodge the Falling Blocks Game - HTML, CSS, JavaScript </h3>
+
+<h3 align="left"> 7. Personal Portfolio Website - HTML, Tailwind CSS, JavaScript (React, Vite), Node.js (ExpressJS) </h3>
 <br>
 <br>
 
@@ -26,11 +33,17 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
-
+  
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+  </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a>
-
+  
+  <a href="https://shap.readthedocs.io/" target="_blank" rel="noreferrer">
+    <img src="https://shap.readthedocs.io/en/latest/_static/logo.png" alt="SHAP" width="40" height="40"/>
+  </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a> 
@@ -42,7 +55,14 @@
   <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a> 
-
+  
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  </a>
+  
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" width="40" height="40"/>
+  </a>
   <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
   </a> 
@@ -76,7 +96,14 @@
   </a> 
 
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.worldvectorlogo.com/logos/power-bi-1.svg" alt="Power BI" width="40" height="40"/>
-</a>
-
+    <img src="https://cdn.worldvectorlogo.com/logos/power-bi-1.svg" alt="Power BI" width="40" height="40"/>
+  </a>
+  
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  </a>
+  
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" width="40" height="40"/>
+  </a>
 </p>
